@@ -81,8 +81,3 @@ The database consists of **6 main tables**:
 
 ---
 
-## 🚀 **How to Use This Repository**  
-
-1. **Clone the Repository**:  
-   ```bash
-   git clone https://github.com/your-username/Atliq-Hardwares-Analytics.git
